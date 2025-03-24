@@ -60,7 +60,7 @@ SecureVault/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/SecureVault.git
+git clone https://github.com/Woofy2001/SecureVault.git
 cd SecureVault
 ```
 
