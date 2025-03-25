@@ -109,7 +109,7 @@ Short screen recording of encryption + alert system in action.
 
 ## 👨‍💻 Author
 
-**Your Name** – [GitHub](https://github.com/your-username)
+**Your Name** – [GitHub]([https://github.com/your-username](https://github.com/Woofy2001))
 
 ---
 
