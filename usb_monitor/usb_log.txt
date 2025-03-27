@@ -2,3 +2,81 @@
 [2025-03-27 15:44:29] USB Inserted: USB Composite Device
 [2025-03-27 15:44:39] USB Inserted: USB Composite Device
 [2025-03-27 15:44:45] USB Inserted: USB Composite Device
+[2025-03-27 15:48:29.984] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_00\7&33A606CD&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:48:30.985] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_01&COL01\7&FCEC90B&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:48:31.986] USB Inserted: HID-compliant consumer control device | ID: HID\VID_1C4F&PID_0080&MI_01&COL02\7&FCEC90B&0&0001 | Manufacturer: Microsoft
+[2025-03-27 15:48:32.989] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_00\6&2FAC0407&1&0000 | Manufacturer: (Standard system devices)
+[2025-03-27 15:48:33.992] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_01\6&2FAC0407&1&0001 | Manufacturer: (Standard system devices)
+[2025-03-27 15:48:34.996] USB Inserted: USB Composite Device | ID: USB\VID_1C4F&PID_0080\5&242A2F40&0&2 | Manufacturer: (Standard USB Host Controller)
+[2025-03-27 15:48:49.376] USB Inserted: Apple Mobile Device USB Device | ID: USB\VID_05AC&PID_12A8&MI_01\6&2974D0A8&0&0001 | Manufacturer: Apple, Inc.
+[2025-03-27 15:48:50.383] USB Inserted: Apple Mobile Device USB Composite Device | ID: USB\VID_05AC&PID_12A8\00008120000C305C1102201E | Manufacturer: Apple, Inc.
+[2025-03-27 15:48:51.885] USB Inserted: Apple Mobile Device Ethernet | ID: USB\VID_05AC&PID_12A8&MI_02\6&2974D0A8&0&0002 | Manufacturer: Apple
+[2025-03-27 15:48:54.141] USB Inserted: Apple iPhone | ID: USB\VID_05AC&PID_12A8&MI_00\6&2974D0A8&0&0000 | Manufacturer: Apple Inc.
+[2025-03-27 15:49:32.463] USB Inserted: HID-compliant consumer control device | ID: HID\VID_1532&PID_008A&MI_00&COL03\8&33560348&0&0000 | Manufacturer: Microsoft
+[2025-03-27 15:49:33.466] USB Inserted: Razer Viper Mini | ID: HID\VID_1532&PID_008A&MI_00\7&1C79A73D&0&0000 | Manufacturer: Razer Inc
+[2025-03-27 15:49:34.469] USB Inserted: Razer Viper Mini | ID: HID\VID_1532&PID_008A&MI_01&COL01\7&4B61AF8&0&0000 | Manufacturer: Razer Inc
+[2025-03-27 15:49:35.472] USB Inserted: HID-compliant consumer control device | ID: HID\VID_1532&PID_008A&MI_01&COL02\7&4B61AF8&0&0001 | Manufacturer: Microsoft
+[2025-03-27 15:49:36.477] USB Inserted: HID-compliant system controller | ID: HID\VID_1532&PID_008A&MI_01&COL03\7&4B61AF8&0&0002 | Manufacturer: (Standard system devices)
+[2025-03-27 15:49:37.480] USB Inserted: HID-compliant device | ID: HID\VID_1532&PID_008A&MI_01&COL04\7&4B61AF8&0&0003 | Manufacturer: (Standard system devices)
+[2025-03-27 15:49:38.481] USB Inserted: HID-compliant device | ID: HID\VID_1532&PID_008A&MI_01&COL05\7&4B61AF8&0&0004 | Manufacturer: (Standard system devices)
+[2025-03-27 15:49:39.484] USB Inserted: HID Keyboard Device | ID: HID\VID_1532&PID_008A&MI_02\7&24A24931&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:49:40.487] USB Inserted: Razer Control Device | ID: RZCONTROL\VID_1532&PID_008A&MI_00\8&3823E914&0 | Manufacturer: Razer Inc
+[2025-03-27 15:49:41.489] USB Inserted: HID-compliant consumer control device | ID: RZVIRTUAL\VID_1532&PID_008A&MI_00&COL03\7&4B61AF8&0&01 | Manufacturer: Razer Inc
+[2025-03-27 15:49:42.491] USB Inserted: USB Input Device | ID: USB\VID_1532&PID_008A&MI_00\6&1B110C07&0&0000 | Manufacturer: (Standard system devices)
+[2025-03-27 15:49:43.494] USB Inserted: Razer Viper Mini | ID: USB\VID_1532&PID_008A&MI_01\6&1B110C07&0&0001 | Manufacturer: Razer Inc
+[2025-03-27 15:49:44.496] USB Inserted: Razer Viper Mini | ID: USB\VID_1532&PID_008A&MI_02\6&1B110C07&0&0002 | Manufacturer: Razer Inc
+[2025-03-27 15:49:45.499] USB Inserted: USB Composite Device | ID: USB\VID_1532&PID_008A\5&242A2F40&0&1 | Manufacturer: (Standard USB Host Controller)
+[2025-03-27 15:55:09.871] USB Inserted: Apple Mobile Device USB Device | ID: USB\VID_05AC&PID_12A8&MI_01\6&2974D0A8&0&0001 | Manufacturer: Apple, Inc.
+[2025-03-27 15:55:37.063] USB Inserted: Apple Mobile Device Ethernet | ID: USB\VID_05AC&PID_12A8&MI_02\6&2974D0A8&0&0002 | Manufacturer: Apple
+[2025-03-27 15:55:44.244] USB Inserted: Apple Mobile Device USB Composite Device | ID: USB\VID_05AC&PID_12A8\00008120000C305C1102201E | Manufacturer: Apple, Inc.
+[2025-03-27 15:55:50.428] USB Inserted: Apple iPhone | ID: USB\VID_05AC&PID_12A8&MI_00\6&2974D0A8&0&0000 | Manufacturer: Apple Inc.
+[2025-03-27 15:55:52.661] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_00\7&33A606CD&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:55:54.157] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_01&COL01\7&FCEC90B&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:55:55.563] USB Inserted: HID-compliant consumer control device | ID: HID\VID_1C4F&PID_0080&MI_01&COL02\7&FCEC90B&0&0001 | Manufacturer: Microsoft
+[2025-03-27 15:55:57.148] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_00\6&2FAC0407&1&0000 | Manufacturer: (Standard system devices)
+[2025-03-27 15:55:58.703] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_01\6&2FAC0407&1&0001 | Manufacturer: (Standard system devices)
+[2025-03-27 15:56:01.024] USB Inserted: USB Composite Device | ID: USB\VID_1C4F&PID_0080\5&242A2F40&0&2 | Manufacturer: (Standard USB Host Controller)
+[2025-03-27 15:57:21.899] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_00\7&33A606CD&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:57:29.907] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_01&COL01\7&FCEC90B&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 15:57:38.998] USB Inserted: HID-compliant consumer control device | ID: HID\VID_1C4F&PID_0080&MI_01&COL02\7&FCEC90B&0&0001 | Manufacturer: Microsoft
+[2025-03-27 15:57:56.887] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_00\6&2FAC0407&1&0000 | Manufacturer: (Standard system devices)
+[2025-03-27 15:57:59.590] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_01\6&2FAC0407&1&0001 | Manufacturer: (Standard system devices)
+[2025-03-27 15:58:12.421] USB Inserted: USB Composite Device | ID: USB\VID_1C4F&PID_0080\5&242A2F40&0&2 | Manufacturer: (Standard USB Host Controller)
+[2025-03-27 16:00:06.277] USB Inserted: Apple Mobile Device USB Device | ID: USB\VID_05AC&PID_12A8&MI_01\6&2974D0A8&0&0001 | Manufacturer: Apple, Inc.
+[2025-03-27 16:00:09.571] USB Inserted: Apple Mobile Device Ethernet | ID: USB\VID_05AC&PID_12A8&MI_02\6&2974D0A8&0&0002 | Manufacturer: Apple
+[2025-03-27 16:00:12.105] USB Inserted: Apple Mobile Device USB Composite Device | ID: USB\VID_05AC&PID_12A8\00008120000C305C1102201E | Manufacturer: Apple, Inc.
+[2025-03-27 16:00:14.581] USB Inserted: Apple iPhone | ID: USB\VID_05AC&PID_12A8&MI_00\6&2974D0A8&0&0000 | Manufacturer: Apple Inc.
+[2025-03-27 16:03:34.319] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_00\7&33A606CD&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 16:03:36.372] USB Inserted: HID Keyboard Device | ID: HID\VID_1C4F&PID_0080&MI_01&COL01\7&FCEC90B&0&0000 | Manufacturer: (Standard keyboards)
+[2025-03-27 16:03:38.343] USB Inserted: HID-compliant consumer control device | ID: HID\VID_1C4F&PID_0080&MI_01&COL02\7&FCEC90B&0&0001 | Manufacturer: Microsoft
+[2025-03-27 16:03:39.956] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_00\6&2FAC0407&1&0000 | Manufacturer: (Standard system devices)
+[2025-03-27 16:03:41.784] USB Inserted: USB Input Device | ID: USB\VID_1C4F&PID_0080&MI_01\6&2FAC0407&1&0001 | Manufacturer: (Standard system devices)
+[2025-03-27 16:03:43.372] USB Inserted: USB Composite Device | ID: USB\VID_1C4F&PID_0080\5&242A2F40&0&2 | Manufacturer: (Standard USB Host Controller)
+[2025-03-27 16:03:53.467] USB Inserted: Apple Mobile Device USB Device | ID: USB\VID_05AC&PID_12A8&MI_01\6&2974D0A8&0&0001 | Manufacturer: Apple, Inc.
+[2025-03-27 16:03:55.434] USB Inserted: Apple Mobile Device Ethernet | ID: USB\VID_05AC&PID_12A8&MI_02\6&2974D0A8&0&0002 | Manufacturer: Apple
+[2025-03-27 16:03:57.789] USB Inserted: Apple Mobile Device USB Composite Device | ID: USB\VID_05AC&PID_12A8\00008120000C305C1102201E | Manufacturer: Apple, Inc.
+[2025-03-27 16:03:59.363] USB Inserted: Apple iPhone | ID: USB\VID_05AC&PID_12A8&MI_00\6&2974D0A8&0&0000 | Manufacturer: Apple Inc.
+[2025-03-27 16:04:32.572] USB Inserted: HID Keyboard Device | VID: 1C4F | PID: 0080 | Manufacturer: (Standard keyboards)
+[2025-03-27 16:04:47.304] USB Inserted: Apple Mobile Device USB Device | VID: 05AC | PID: 12A8 | Manufacturer: Apple, Inc.
+[2025-03-27 16:04:56.621] USB Inserted: HID-compliant consumer control device | VID: 1532 | PID: 008A | Manufacturer: Microsoft
+[2025-03-27 16:07:05.715] USB Inserted: HID Keyboard Device | VID: 1C4F | PID: 0080 | Manufacturer: (Standard keyboards)
+[2025-03-27 16:07:15.159] USB Inserted: Razer Viper Mini | VID: 1532 | PID: 008A | Manufacturer: Microsoft
+[2025-03-27 16:08:07.971] USB Inserted: Apple iPhone | VID: 05AC | PID: 12A8 | Manufacturer: Apple, Inc.
+🔌 [Detected USB Device]
+📅 Timestamp: 2025-03-27 16:12:37.662
+💻 Device Name: HID Keyboard Device
+🏭 Manufacturer: Generic Keyboard
+🆔 VID: 1C4F | PID: 0080
+------------------------------
+🔌 [Detected USB Device]
+📅 Timestamp: 2025-03-27 16:12:49.367
+💻 Device Name: Razer Viper Mini
+🏭 Manufacturer: Razer Inc.
+🆔 VID: 1532 | PID: 008A
+------------------------------
+🔌 [Detected USB Device]
+📅 Timestamp: 2025-03-27 16:13:11.390
+💻 Device Name: Apple iPhone
+🏭 Manufacturer: Apple, Inc.
+🆔 VID: 05AC | PID: 12A8
+------------------------------
